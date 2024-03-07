@@ -24,3 +24,11 @@ Hex has six digit long and consists of number zero to nine and letter A to F. Ca
 
 UNDERSTANG IMAGES IN CSS- Images are frequently found on webpages. They can be added either html or css. 
 There are various image formats: 1.GIF 2.PNG 3.JPEG
+CSS SELECTOR- Simple selector(select elementbased on Name, Id, Class).
+Combinator selector(specific relationship between them)
+Pseudo-class selector(based on certain state)
+Pseudo element selector(select abd style a part of an element)
+Attribute selector(based on an attribute or attribute value)
+
+  THE ID SELECTOR - The id selector uses the id attribute of an html element to select a specific element. The id of an element is unique within the page, so the id selector is used to select one unique element.
+  To select an element with a specific id, write a hash(#) character, follewed by the id of the element.
